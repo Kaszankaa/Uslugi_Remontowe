@@ -4,13 +4,13 @@ body, html{
 }
 
 #baner{
-    background:rgb(255,213,162); 
+    background:rgb(255,213,144); 
     text-align:center; 
     padding:20px;
 }
 #menu > div {
     float:left; 
-    background:rgb(191,112,17); 
+    background:rgb(191,110,10); 
     color:white; 
     font-size:150%; 
     width:25%;
@@ -21,7 +21,7 @@ body, html{
     height:400px; 
 }
 #stopka{
-    background:rgb(191,112,17); 
+    background:rgb(191,110,10); 
     color:white; 
     text-align:right; 
     font-size:150%;
